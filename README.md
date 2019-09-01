@@ -7,4 +7,6 @@ I think i know why. Since my model computes the gradient of each degree, then up
 This is why there is no ptoblem at the fitst degree.
 
 I will try to compute the gradient and update it simultaneously for every degree.
-Hipe this will make a difference. 
+Hope this will make a difference. 
+
+unfortunately. it didn't.
