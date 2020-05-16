@@ -1,5 +1,5 @@
 # Linear-regression
-This model has several versions. Built by me when i was 14 years old.
+This model has several versions.
 
 The last version has one problem. Only reliable points and degree gives reliable results. 
 
@@ -10,3 +10,4 @@ I will try to compute the gradient and update it simultaneously for every degree
 Hope this will make a difference. 
 
 unfortunately. it didn't.
+
